@@ -1,0 +1,9 @@
+.column {
+  width: 450px;
+  float: left;
+  background-color: #c2c3c4;
+}
+
+#before, #during, #after {
+  width:450px;
+}
